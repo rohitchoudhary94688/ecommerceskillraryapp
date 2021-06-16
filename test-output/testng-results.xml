@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-05T03:48:59 PDT" name="Default suite" finished-at="2021-06-05T03:49:34 PDT" duration-ms="34963">
+    <groups>
+    </groups>
+    <test started-at="2021-06-05T03:48:59 PDT" name="Default test" finished-at="2021-06-05T03:49:34 PDT" duration-ms="34963">
+      <class name="scripts.Addingcoursestocart">
+        <test-method is-config="true" signature="app()[pri:0, instance:scripts.Addingcoursestocart@2bfc268b]" started-at="2021-06-05T03:48:59 PDT" name="app" finished-at="2021-06-05T03:49:25 PDT" duration-ms="26466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+        <test-method signature="tc1()[pri:0, instance:scripts.Addingcoursestocart@2bfc268b]" started-at="2021-06-05T03:49:25 PDT" name="tc1" finished-at="2021-06-05T03:49:34 PDT" duration-ms="8179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="closeapp(org.testng.ITestResult)[pri:0, instance:scripts.Addingcoursestocart@2bfc268b]" started-at="2021-06-05T03:49:34 PDT" name="closeapp" finished-at="2021-06-05T03:49:34 PDT" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc1 status=SUCCESS method=Addingcoursestocart.tc1()[pri:0, instance:scripts.Addingcoursestocart@2bfc268b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- scripts.Addingcoursestocart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
